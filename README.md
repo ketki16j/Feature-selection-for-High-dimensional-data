@@ -1,5 +1,7 @@
 # Feature Selection for High-Dimensional Data
 Code repository for performing feature selection in machine learning.
+<img width="1024" height="1536" alt="ChatGPT Image Aug 24, 2025, 04_35_46 PM" src="https://github.com/user-attachments/assets/fc63f689-d270-4061-afa9-eaf593e2dc26" />
+
 
 ## Table of Contents
 
